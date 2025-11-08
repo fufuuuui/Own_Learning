@@ -1,0 +1,14 @@
+D:\code\array_basic\exercise\bin\Debug\net9.0\exercise.exe
+D:\code\array_basic\exercise\bin\Debug\net9.0\exercise.deps.json
+D:\code\array_basic\exercise\bin\Debug\net9.0\exercise.runtimeconfig.json
+D:\code\array_basic\exercise\bin\Debug\net9.0\exercise.dll
+D:\code\array_basic\exercise\bin\Debug\net9.0\exercise.pdb
+D:\code\array_basic\exercise\obj\Debug\net9.0\exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\array_basic\exercise\obj\Debug\net9.0\exercise.AssemblyInfoInputs.cache
+D:\code\array_basic\exercise\obj\Debug\net9.0\exercise.AssemblyInfo.cs
+D:\code\array_basic\exercise\obj\Debug\net9.0\exercise.csproj.CoreCompileInputs.cache
+D:\code\array_basic\exercise\obj\Debug\net9.0\exercise.dll
+D:\code\array_basic\exercise\obj\Debug\net9.0\refint\exercise.dll
+D:\code\array_basic\exercise\obj\Debug\net9.0\exercise.pdb
+D:\code\array_basic\exercise\obj\Debug\net9.0\exercise.genruntimeconfig.cache
+D:\code\array_basic\exercise\obj\Debug\net9.0\ref\exercise.dll
