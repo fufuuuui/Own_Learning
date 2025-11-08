@@ -1,0 +1,14 @@
+D:\code\Exercise\codereadability\bin\Debug\net9.0\codereadability.exe
+D:\code\Exercise\codereadability\bin\Debug\net9.0\codereadability.deps.json
+D:\code\Exercise\codereadability\bin\Debug\net9.0\codereadability.runtimeconfig.json
+D:\code\Exercise\codereadability\bin\Debug\net9.0\codereadability.dll
+D:\code\Exercise\codereadability\bin\Debug\net9.0\codereadability.pdb
+D:\code\Exercise\codereadability\obj\Debug\net9.0\codereadability.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Exercise\codereadability\obj\Debug\net9.0\codereadability.AssemblyInfoInputs.cache
+D:\code\Exercise\codereadability\obj\Debug\net9.0\codereadability.AssemblyInfo.cs
+D:\code\Exercise\codereadability\obj\Debug\net9.0\codereadability.csproj.CoreCompileInputs.cache
+D:\code\Exercise\codereadability\obj\Debug\net9.0\codereadability.dll
+D:\code\Exercise\codereadability\obj\Debug\net9.0\refint\codereadability.dll
+D:\code\Exercise\codereadability\obj\Debug\net9.0\codereadability.pdb
+D:\code\Exercise\codereadability\obj\Debug\net9.0\codereadability.genruntimeconfig.cache
+D:\code\Exercise\codereadability\obj\Debug\net9.0\ref\codereadability.dll
