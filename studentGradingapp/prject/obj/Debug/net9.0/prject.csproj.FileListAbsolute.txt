@@ -1,0 +1,14 @@
+D:\code\studentGradingapp\prject\bin\Debug\net9.0\prject.exe
+D:\code\studentGradingapp\prject\bin\Debug\net9.0\prject.deps.json
+D:\code\studentGradingapp\prject\bin\Debug\net9.0\prject.runtimeconfig.json
+D:\code\studentGradingapp\prject\bin\Debug\net9.0\prject.dll
+D:\code\studentGradingapp\prject\bin\Debug\net9.0\prject.pdb
+D:\code\studentGradingapp\prject\obj\Debug\net9.0\prject.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\studentGradingapp\prject\obj\Debug\net9.0\prject.AssemblyInfoInputs.cache
+D:\code\studentGradingapp\prject\obj\Debug\net9.0\prject.AssemblyInfo.cs
+D:\code\studentGradingapp\prject\obj\Debug\net9.0\prject.csproj.CoreCompileInputs.cache
+D:\code\studentGradingapp\prject\obj\Debug\net9.0\prject.dll
+D:\code\studentGradingapp\prject\obj\Debug\net9.0\refint\prject.dll
+D:\code\studentGradingapp\prject\obj\Debug\net9.0\prject.pdb
+D:\code\studentGradingapp\prject\obj\Debug\net9.0\prject.genruntimeconfig.cache
+D:\code\studentGradingapp\prject\obj\Debug\net9.0\ref\prject.dll

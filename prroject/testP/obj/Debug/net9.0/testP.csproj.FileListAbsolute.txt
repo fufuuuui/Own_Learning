@@ -1,0 +1,14 @@
+D:\code\prroject\testP\bin\Debug\net9.0\testP.exe
+D:\code\prroject\testP\bin\Debug\net9.0\testP.deps.json
+D:\code\prroject\testP\bin\Debug\net9.0\testP.runtimeconfig.json
+D:\code\prroject\testP\bin\Debug\net9.0\testP.dll
+D:\code\prroject\testP\bin\Debug\net9.0\testP.pdb
+D:\code\prroject\testP\obj\Debug\net9.0\testP.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\prroject\testP\obj\Debug\net9.0\testP.AssemblyInfoInputs.cache
+D:\code\prroject\testP\obj\Debug\net9.0\testP.AssemblyInfo.cs
+D:\code\prroject\testP\obj\Debug\net9.0\testP.csproj.CoreCompileInputs.cache
+D:\code\prroject\testP\obj\Debug\net9.0\testP.dll
+D:\code\prroject\testP\obj\Debug\net9.0\refint\testP.dll
+D:\code\prroject\testP\obj\Debug\net9.0\testP.pdb
+D:\code\prroject\testP\obj\Debug\net9.0\testP.genruntimeconfig.cache
+D:\code\prroject\testP\obj\Debug\net9.0\ref\testP.dll
