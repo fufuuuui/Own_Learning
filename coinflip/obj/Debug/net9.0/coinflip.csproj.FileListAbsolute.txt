@@ -1,0 +1,14 @@
+D:\coin\coinflip\bin\Debug\net9.0\coinflip.exe
+D:\coin\coinflip\bin\Debug\net9.0\coinflip.deps.json
+D:\coin\coinflip\bin\Debug\net9.0\coinflip.runtimeconfig.json
+D:\coin\coinflip\bin\Debug\net9.0\coinflip.dll
+D:\coin\coinflip\bin\Debug\net9.0\coinflip.pdb
+D:\coin\coinflip\obj\Debug\net9.0\coinflip.GeneratedMSBuildEditorConfig.editorconfig
+D:\coin\coinflip\obj\Debug\net9.0\coinflip.AssemblyInfoInputs.cache
+D:\coin\coinflip\obj\Debug\net9.0\coinflip.AssemblyInfo.cs
+D:\coin\coinflip\obj\Debug\net9.0\coinflip.csproj.CoreCompileInputs.cache
+D:\coin\coinflip\obj\Debug\net9.0\coinflip.dll
+D:\coin\coinflip\obj\Debug\net9.0\refint\coinflip.dll
+D:\coin\coinflip\obj\Debug\net9.0\coinflip.pdb
+D:\coin\coinflip\obj\Debug\net9.0\coinflip.genruntimeconfig.cache
+D:\coin\coinflip\obj\Debug\net9.0\ref\coinflip.dll
