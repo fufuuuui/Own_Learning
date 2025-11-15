@@ -1,0 +1,14 @@
+D:\project_1\integer_input\bin\Debug\net9.0\integer_input.exe
+D:\project_1\integer_input\bin\Debug\net9.0\integer_input.deps.json
+D:\project_1\integer_input\bin\Debug\net9.0\integer_input.runtimeconfig.json
+D:\project_1\integer_input\bin\Debug\net9.0\integer_input.dll
+D:\project_1\integer_input\bin\Debug\net9.0\integer_input.pdb
+D:\project_1\integer_input\obj\Debug\net9.0\integer_input.GeneratedMSBuildEditorConfig.editorconfig
+D:\project_1\integer_input\obj\Debug\net9.0\integer_input.AssemblyInfoInputs.cache
+D:\project_1\integer_input\obj\Debug\net9.0\integer_input.AssemblyInfo.cs
+D:\project_1\integer_input\obj\Debug\net9.0\integer_input.csproj.CoreCompileInputs.cache
+D:\project_1\integer_input\obj\Debug\net9.0\integer_input.dll
+D:\project_1\integer_input\obj\Debug\net9.0\refint\integer_input.dll
+D:\project_1\integer_input\obj\Debug\net9.0\integer_input.pdb
+D:\project_1\integer_input\obj\Debug\net9.0\integer_input.genruntimeconfig.cache
+D:\project_1\integer_input\obj\Debug\net9.0\ref\integer_input.dll
