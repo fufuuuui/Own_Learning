@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string_imput", "string_imput\string_imput.csproj", "{3E263F98-3A42-14D1-FFAD-159C9DD7DBCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E263F98-3A42-14D1-FFAD-159C9DD7DBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E263F98-3A42-14D1-FFAD-159C9DD7DBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E263F98-3A42-14D1-FFAD-159C9DD7DBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E263F98-3A42-14D1-FFAD-159C9DD7DBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D71D7B08-3AAB-412C-B225-9625BE0CDB5B}
+	EndGlobalSection
+EndGlobal
