@@ -5,19 +5,25 @@ bool success = true;
 Console.WriteLine("Enter your role name (Administrator, Manager, or User)");
 do
 {
-    readInput = Console.ReadLine().ToLower().Trim();
+    readInput = Console.ReadLine().Trim();
     if (readInput != null)
     {
-        if(readInput == "Administrator")
+        if(readInput.ToLower() == "administrator")
+        {
+            Console.WriteLine($"Your input value ({readInput}) has been accepted.");                        
+            success = false;
+        }
+        else if(readInput.ToLower() == "manager")
         {
             Console.WriteLine($"Your input value ({readInput}) has been accepted.");
             success = false;
         }
-        else if (readInput == "Manager")
+        else if(readInput.ToLower() == "user")
         {
             Console.WriteLine($"Your input value ({readInput}) has been accepted.");
             success = false;
         }
+        
         else
         {
             Console.WriteLine($"The role name that you entered, \"{readInput}\" is not valid. Enter your role name (Administrator, Manager, or User)");
