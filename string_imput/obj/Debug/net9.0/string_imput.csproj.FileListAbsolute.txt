@@ -1,0 +1,14 @@
+D:\project_2\string_imput\bin\Debug\net9.0\string_imput.exe
+D:\project_2\string_imput\bin\Debug\net9.0\string_imput.deps.json
+D:\project_2\string_imput\bin\Debug\net9.0\string_imput.runtimeconfig.json
+D:\project_2\string_imput\bin\Debug\net9.0\string_imput.dll
+D:\project_2\string_imput\bin\Debug\net9.0\string_imput.pdb
+D:\project_2\string_imput\obj\Debug\net9.0\string_imput.GeneratedMSBuildEditorConfig.editorconfig
+D:\project_2\string_imput\obj\Debug\net9.0\string_imput.AssemblyInfoInputs.cache
+D:\project_2\string_imput\obj\Debug\net9.0\string_imput.AssemblyInfo.cs
+D:\project_2\string_imput\obj\Debug\net9.0\string_imput.csproj.CoreCompileInputs.cache
+D:\project_2\string_imput\obj\Debug\net9.0\string_imput.dll
+D:\project_2\string_imput\obj\Debug\net9.0\refint\string_imput.dll
+D:\project_2\string_imput\obj\Debug\net9.0\string_imput.pdb
+D:\project_2\string_imput\obj\Debug\net9.0\string_imput.genruntimeconfig.cache
+D:\project_2\string_imput\obj\Debug\net9.0\ref\string_imput.dll
