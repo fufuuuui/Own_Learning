@@ -1,0 +1,14 @@
+D:\intergal\types\bin\Debug\net9.0\types.exe
+D:\intergal\types\bin\Debug\net9.0\types.deps.json
+D:\intergal\types\bin\Debug\net9.0\types.runtimeconfig.json
+D:\intergal\types\bin\Debug\net9.0\types.dll
+D:\intergal\types\bin\Debug\net9.0\types.pdb
+D:\intergal\types\obj\Debug\net9.0\types.GeneratedMSBuildEditorConfig.editorconfig
+D:\intergal\types\obj\Debug\net9.0\types.AssemblyInfoInputs.cache
+D:\intergal\types\obj\Debug\net9.0\types.AssemblyInfo.cs
+D:\intergal\types\obj\Debug\net9.0\types.csproj.CoreCompileInputs.cache
+D:\intergal\types\obj\Debug\net9.0\types.dll
+D:\intergal\types\obj\Debug\net9.0\refint\types.dll
+D:\intergal\types\obj\Debug\net9.0\types.pdb
+D:\intergal\types\obj\Debug\net9.0\types.genruntimeconfig.cache
+D:\intergal\types\obj\Debug\net9.0\ref\types.dll
