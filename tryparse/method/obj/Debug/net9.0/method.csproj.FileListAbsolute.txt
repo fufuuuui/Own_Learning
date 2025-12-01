@@ -1,0 +1,14 @@
+D:\tryparse\method\bin\Debug\net9.0\method.exe
+D:\tryparse\method\bin\Debug\net9.0\method.deps.json
+D:\tryparse\method\bin\Debug\net9.0\method.runtimeconfig.json
+D:\tryparse\method\bin\Debug\net9.0\method.dll
+D:\tryparse\method\bin\Debug\net9.0\method.pdb
+D:\tryparse\method\obj\Debug\net9.0\method.GeneratedMSBuildEditorConfig.editorconfig
+D:\tryparse\method\obj\Debug\net9.0\method.AssemblyInfoInputs.cache
+D:\tryparse\method\obj\Debug\net9.0\method.AssemblyInfo.cs
+D:\tryparse\method\obj\Debug\net9.0\method.csproj.CoreCompileInputs.cache
+D:\tryparse\method\obj\Debug\net9.0\method.dll
+D:\tryparse\method\obj\Debug\net9.0\refint\method.dll
+D:\tryparse\method\obj\Debug\net9.0\method.pdb
+D:\tryparse\method\obj\Debug\net9.0\method.genruntimeconfig.cache
+D:\tryparse\method\obj\Debug\net9.0\ref\method.dll
