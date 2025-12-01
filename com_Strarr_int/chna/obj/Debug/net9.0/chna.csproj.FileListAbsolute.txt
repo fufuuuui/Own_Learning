@@ -1,0 +1,15 @@
+D:\code\com_Strarr_int\chna\obj\Debug\net9.0\chna.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\com_Strarr_int\chna\obj\Debug\net9.0\chna.AssemblyInfoInputs.cache
+D:\code\com_Strarr_int\chna\obj\Debug\net9.0\chna.AssemblyInfo.cs
+D:\code\com_Strarr_int\chna\obj\Debug\net9.0\chna.csproj.CoreCompileInputs.cache
+D:\code\com_Strarr_int\chna\obj\Debug\net9.0\chna.sourcelink.json
+D:\code\com_Strarr_int\chna\bin\Debug\net9.0\chna.exe
+D:\code\com_Strarr_int\chna\bin\Debug\net9.0\chna.deps.json
+D:\code\com_Strarr_int\chna\bin\Debug\net9.0\chna.runtimeconfig.json
+D:\code\com_Strarr_int\chna\bin\Debug\net9.0\chna.dll
+D:\code\com_Strarr_int\chna\bin\Debug\net9.0\chna.pdb
+D:\code\com_Strarr_int\chna\obj\Debug\net9.0\chna.dll
+D:\code\com_Strarr_int\chna\obj\Debug\net9.0\refint\chna.dll
+D:\code\com_Strarr_int\chna\obj\Debug\net9.0\chna.pdb
+D:\code\com_Strarr_int\chna\obj\Debug\net9.0\chna.genruntimeconfig.cache
+D:\code\com_Strarr_int\chna\obj\Debug\net9.0\ref\chna.dll
