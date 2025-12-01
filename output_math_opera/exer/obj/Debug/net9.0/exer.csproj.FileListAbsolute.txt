@@ -1,0 +1,15 @@
+D:\code\output_math_opera\exer\obj\Debug\net9.0\exer.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\output_math_opera\exer\obj\Debug\net9.0\exer.AssemblyInfoInputs.cache
+D:\code\output_math_opera\exer\obj\Debug\net9.0\exer.AssemblyInfo.cs
+D:\code\output_math_opera\exer\obj\Debug\net9.0\exer.csproj.CoreCompileInputs.cache
+D:\code\output_math_opera\exer\obj\Debug\net9.0\exer.sourcelink.json
+D:\code\output_math_opera\exer\bin\Debug\net9.0\exer.exe
+D:\code\output_math_opera\exer\bin\Debug\net9.0\exer.deps.json
+D:\code\output_math_opera\exer\bin\Debug\net9.0\exer.runtimeconfig.json
+D:\code\output_math_opera\exer\bin\Debug\net9.0\exer.dll
+D:\code\output_math_opera\exer\bin\Debug\net9.0\exer.pdb
+D:\code\output_math_opera\exer\obj\Debug\net9.0\exer.dll
+D:\code\output_math_opera\exer\obj\Debug\net9.0\refint\exer.dll
+D:\code\output_math_opera\exer\obj\Debug\net9.0\exer.pdb
+D:\code\output_math_opera\exer\obj\Debug\net9.0\exer.genruntimeconfig.cache
+D:\code\output_math_opera\exer\obj\Debug\net9.0\ref\exer.dll
