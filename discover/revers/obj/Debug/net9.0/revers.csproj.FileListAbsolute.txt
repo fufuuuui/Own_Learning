@@ -1,0 +1,15 @@
+D:\code\discover\revers\bin\Debug\net9.0\revers.exe
+D:\code\discover\revers\bin\Debug\net9.0\revers.deps.json
+D:\code\discover\revers\bin\Debug\net9.0\revers.runtimeconfig.json
+D:\code\discover\revers\bin\Debug\net9.0\revers.dll
+D:\code\discover\revers\bin\Debug\net9.0\revers.pdb
+D:\code\discover\revers\obj\Debug\net9.0\revers.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\discover\revers\obj\Debug\net9.0\revers.AssemblyInfoInputs.cache
+D:\code\discover\revers\obj\Debug\net9.0\revers.AssemblyInfo.cs
+D:\code\discover\revers\obj\Debug\net9.0\revers.csproj.CoreCompileInputs.cache
+D:\code\discover\revers\obj\Debug\net9.0\revers.sourcelink.json
+D:\code\discover\revers\obj\Debug\net9.0\revers.dll
+D:\code\discover\revers\obj\Debug\net9.0\refint\revers.dll
+D:\code\discover\revers\obj\Debug\net9.0\revers.pdb
+D:\code\discover\revers\obj\Debug\net9.0\revers.genruntimeconfig.cache
+D:\code\discover\revers\obj\Debug\net9.0\ref\revers.dll
