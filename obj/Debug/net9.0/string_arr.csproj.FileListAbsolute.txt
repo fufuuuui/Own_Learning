@@ -1,0 +1,5 @@
+D:\Own_Learning\obj\Debug\net9.0\string_arr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own_Learning\obj\Debug\net9.0\string_arr.AssemblyInfoInputs.cache
+D:\Own_Learning\obj\Debug\net9.0\string_arr.AssemblyInfo.cs
+D:\Own_Learning\obj\Debug\net9.0\string_arr.csproj.CoreCompileInputs.cache
+D:\Own_Learning\obj\Debug\net9.0\string_arr.sourcelink.json

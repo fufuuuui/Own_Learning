@@ -1,0 +1,15 @@
+D:\Own_Learning\Exercise\reverse_words\obj\Debug\net9.0\reverse_words.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own_Learning\Exercise\reverse_words\obj\Debug\net9.0\reverse_words.AssemblyInfoInputs.cache
+D:\Own_Learning\Exercise\reverse_words\obj\Debug\net9.0\reverse_words.AssemblyInfo.cs
+D:\Own_Learning\Exercise\reverse_words\obj\Debug\net9.0\reverse_words.csproj.CoreCompileInputs.cache
+D:\Own_Learning\Exercise\reverse_words\obj\Debug\net9.0\reverse_words.sourcelink.json
+D:\Own_Learning\Exercise\reverse_words\bin\Debug\net9.0\reverse_words.exe
+D:\Own_Learning\Exercise\reverse_words\bin\Debug\net9.0\reverse_words.deps.json
+D:\Own_Learning\Exercise\reverse_words\bin\Debug\net9.0\reverse_words.runtimeconfig.json
+D:\Own_Learning\Exercise\reverse_words\bin\Debug\net9.0\reverse_words.dll
+D:\Own_Learning\Exercise\reverse_words\bin\Debug\net9.0\reverse_words.pdb
+D:\Own_Learning\Exercise\reverse_words\obj\Debug\net9.0\reverse_words.dll
+D:\Own_Learning\Exercise\reverse_words\obj\Debug\net9.0\refint\reverse_words.dll
+D:\Own_Learning\Exercise\reverse_words\obj\Debug\net9.0\reverse_words.pdb
+D:\Own_Learning\Exercise\reverse_words\obj\Debug\net9.0\reverse_words.genruntimeconfig.cache
+D:\Own_Learning\Exercise\reverse_words\obj\Debug\net9.0\ref\reverse_words.dll

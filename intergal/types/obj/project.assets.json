@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\intergal\\types\\types.csproj",
+      "projectUniqueName": "D:\\Own_Learning\\intergal\\types\\types.csproj",
       "projectName": "types",
-      "projectPath": "D:\\intergal\\types\\types.csproj",
+      "projectPath": "D:\\Own_Learning\\intergal\\types\\types.csproj",
       "packagesPath": "C:\\Users\\aldrix\\.nuget\\packages\\",
-      "outputPath": "D:\\intergal\\types\\obj\\",
+      "outputPath": "D:\\Own_Learning\\intergal\\types\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aldrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
