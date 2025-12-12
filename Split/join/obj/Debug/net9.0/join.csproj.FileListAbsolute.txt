@@ -1,0 +1,15 @@
+D:\code\Split\join\obj\Debug\net9.0\join.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Split\join\obj\Debug\net9.0\join.AssemblyInfoInputs.cache
+D:\code\Split\join\obj\Debug\net9.0\join.AssemblyInfo.cs
+D:\code\Split\join\obj\Debug\net9.0\join.csproj.CoreCompileInputs.cache
+D:\code\Split\join\obj\Debug\net9.0\join.sourcelink.json
+D:\code\Split\join\bin\Debug\net9.0\join.exe
+D:\code\Split\join\bin\Debug\net9.0\join.deps.json
+D:\code\Split\join\bin\Debug\net9.0\join.runtimeconfig.json
+D:\code\Split\join\bin\Debug\net9.0\join.dll
+D:\code\Split\join\bin\Debug\net9.0\join.pdb
+D:\code\Split\join\obj\Debug\net9.0\join.dll
+D:\code\Split\join\obj\Debug\net9.0\refint\join.dll
+D:\code\Split\join\obj\Debug\net9.0\join.pdb
+D:\code\Split\join\obj\Debug\net9.0\join.genruntimeconfig.cache
+D:\code\Split\join\obj\Debug\net9.0\ref\join.dll
