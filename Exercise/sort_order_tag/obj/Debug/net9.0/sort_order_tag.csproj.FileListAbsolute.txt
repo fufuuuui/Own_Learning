@@ -1,0 +1,15 @@
+D:\Own_Learning\Exercise\sort_order_tag\bin\Debug\net9.0\sort_order_tag.exe
+D:\Own_Learning\Exercise\sort_order_tag\bin\Debug\net9.0\sort_order_tag.deps.json
+D:\Own_Learning\Exercise\sort_order_tag\bin\Debug\net9.0\sort_order_tag.runtimeconfig.json
+D:\Own_Learning\Exercise\sort_order_tag\bin\Debug\net9.0\sort_order_tag.dll
+D:\Own_Learning\Exercise\sort_order_tag\bin\Debug\net9.0\sort_order_tag.pdb
+D:\Own_Learning\Exercise\sort_order_tag\obj\Debug\net9.0\sort_order_tag.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own_Learning\Exercise\sort_order_tag\obj\Debug\net9.0\sort_order_tag.AssemblyInfoInputs.cache
+D:\Own_Learning\Exercise\sort_order_tag\obj\Debug\net9.0\sort_order_tag.AssemblyInfo.cs
+D:\Own_Learning\Exercise\sort_order_tag\obj\Debug\net9.0\sort_order_tag.csproj.CoreCompileInputs.cache
+D:\Own_Learning\Exercise\sort_order_tag\obj\Debug\net9.0\sort_order_tag.sourcelink.json
+D:\Own_Learning\Exercise\sort_order_tag\obj\Debug\net9.0\sort_order_tag.dll
+D:\Own_Learning\Exercise\sort_order_tag\obj\Debug\net9.0\refint\sort_order_tag.dll
+D:\Own_Learning\Exercise\sort_order_tag\obj\Debug\net9.0\sort_order_tag.pdb
+D:\Own_Learning\Exercise\sort_order_tag\obj\Debug\net9.0\sort_order_tag.genruntimeconfig.cache
+D:\Own_Learning\Exercise\sort_order_tag\obj\Debug\net9.0\ref\sort_order_tag.dll

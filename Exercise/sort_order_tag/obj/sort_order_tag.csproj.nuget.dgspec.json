@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OWN_LEARNING\\string_arr.csproj": {}
+    "D:\\Own_Learning\\Exercise\\sort_order_tag\\sort_order_tag.csproj": {}
   },
   "projects": {
-    "D:\\OWN_LEARNING\\string_arr.csproj": {
+    "D:\\Own_Learning\\Exercise\\sort_order_tag\\sort_order_tag.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OWN_LEARNING\\string_arr.csproj",
-        "projectName": "string_arr",
-        "projectPath": "D:\\OWN_LEARNING\\string_arr.csproj",
+        "projectUniqueName": "D:\\Own_Learning\\Exercise\\sort_order_tag\\sort_order_tag.csproj",
+        "projectName": "sort_order_tag",
+        "projectPath": "D:\\Own_Learning\\Exercise\\sort_order_tag\\sort_order_tag.csproj",
         "packagesPath": "C:\\Users\\aldrix\\.nuget\\packages\\",
-        "outputPath": "D:\\OWN_LEARNING\\obj\\",
+        "outputPath": "D:\\Own_Learning\\Exercise\\sort_order_tag\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aldrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
