@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("reverse_words")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9e17cc602b0b83cce67d0011c4d3ee8b4a88c05")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae8c826b93c94d04794061aeaa05cedf4fa437ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("reverse_words")]
 [assembly: System.Reflection.AssemblyTitleAttribute("reverse_words")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
