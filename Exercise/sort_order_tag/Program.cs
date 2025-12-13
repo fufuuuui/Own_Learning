@@ -7,13 +7,16 @@ string[] newMessage = new string[message.Length];
 for (int i = 0; i < message.Length; i++)
 {
     char[] letters = message[i].ToCharArray();
+    Array.Sort(letters);
     if (message[i].Length > 4 || message[i].Length < 4)
     {
-
-        Array.Reverse(letters);
-        newMessage[i] = new string(letters);
+        newMessage[i] = new string(letters) + $"\t- Error" + "\n";
     }
-    newMessage[i] = new string(letters);
+    else
+    {
+        newMessage[i] = new string(letters) + $"\t- OK" + "\n";
+    }
 }
+
 string result = String.Join(" ", newMessage);
 Console.WriteLine(result);
