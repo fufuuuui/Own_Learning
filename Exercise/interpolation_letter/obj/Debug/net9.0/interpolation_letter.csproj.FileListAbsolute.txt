@@ -1,0 +1,15 @@
+D:\Own_Learning\Exercise\interpolation_letter\bin\Debug\net9.0\interpolation_letter.exe
+D:\Own_Learning\Exercise\interpolation_letter\bin\Debug\net9.0\interpolation_letter.deps.json
+D:\Own_Learning\Exercise\interpolation_letter\bin\Debug\net9.0\interpolation_letter.runtimeconfig.json
+D:\Own_Learning\Exercise\interpolation_letter\bin\Debug\net9.0\interpolation_letter.dll
+D:\Own_Learning\Exercise\interpolation_letter\bin\Debug\net9.0\interpolation_letter.pdb
+D:\Own_Learning\Exercise\interpolation_letter\obj\Debug\net9.0\interpolation_letter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own_Learning\Exercise\interpolation_letter\obj\Debug\net9.0\interpolation_letter.AssemblyInfoInputs.cache
+D:\Own_Learning\Exercise\interpolation_letter\obj\Debug\net9.0\interpolation_letter.AssemblyInfo.cs
+D:\Own_Learning\Exercise\interpolation_letter\obj\Debug\net9.0\interpolation_letter.csproj.CoreCompileInputs.cache
+D:\Own_Learning\Exercise\interpolation_letter\obj\Debug\net9.0\interpolation_letter.sourcelink.json
+D:\Own_Learning\Exercise\interpolation_letter\obj\Debug\net9.0\interpolation_letter.dll
+D:\Own_Learning\Exercise\interpolation_letter\obj\Debug\net9.0\refint\interpolation_letter.dll
+D:\Own_Learning\Exercise\interpolation_letter\obj\Debug\net9.0\interpolation_letter.pdb
+D:\Own_Learning\Exercise\interpolation_letter\obj\Debug\net9.0\interpolation_letter.genruntimeconfig.cache
+D:\Own_Learning\Exercise\interpolation_letter\obj\Debug\net9.0\ref\interpolation_letter.dll
