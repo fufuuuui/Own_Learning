@@ -1,0 +1,15 @@
+D:\Own_Learning\invoice\strinterpolaton\bin\Debug\net9.0\strinterpolaton.exe
+D:\Own_Learning\invoice\strinterpolaton\bin\Debug\net9.0\strinterpolaton.deps.json
+D:\Own_Learning\invoice\strinterpolaton\bin\Debug\net9.0\strinterpolaton.runtimeconfig.json
+D:\Own_Learning\invoice\strinterpolaton\bin\Debug\net9.0\strinterpolaton.dll
+D:\Own_Learning\invoice\strinterpolaton\bin\Debug\net9.0\strinterpolaton.pdb
+D:\Own_Learning\invoice\strinterpolaton\obj\Debug\net9.0\strinterpolaton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own_Learning\invoice\strinterpolaton\obj\Debug\net9.0\strinterpolaton.AssemblyInfoInputs.cache
+D:\Own_Learning\invoice\strinterpolaton\obj\Debug\net9.0\strinterpolaton.AssemblyInfo.cs
+D:\Own_Learning\invoice\strinterpolaton\obj\Debug\net9.0\strinterpolaton.csproj.CoreCompileInputs.cache
+D:\Own_Learning\invoice\strinterpolaton\obj\Debug\net9.0\strinterpolaton.sourcelink.json
+D:\Own_Learning\invoice\strinterpolaton\obj\Debug\net9.0\strinterpolaton.dll
+D:\Own_Learning\invoice\strinterpolaton\obj\Debug\net9.0\refint\strinterpolaton.dll
+D:\Own_Learning\invoice\strinterpolaton\obj\Debug\net9.0\strinterpolaton.pdb
+D:\Own_Learning\invoice\strinterpolaton\obj\Debug\net9.0\strinterpolaton.genruntimeconfig.cache
+D:\Own_Learning\invoice\strinterpolaton\obj\Debug\net9.0\ref\strinterpolaton.dll
