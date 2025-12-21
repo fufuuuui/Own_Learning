@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("strinterpolaton")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+680c77da70f12230cfbba8e5c8d43f0d8e75f8bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f49c271582932f093e513da8846f72a1b9af9654")]
 [assembly: System.Reflection.AssemblyProductAttribute("strinterpolaton")]
 [assembly: System.Reflection.AssemblyTitleAttribute("strinterpolaton")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
