@@ -1,0 +1,15 @@
+D:\Own_Learning\formatalpha\present\bin\Debug\net9.0\present.exe
+D:\Own_Learning\formatalpha\present\bin\Debug\net9.0\present.deps.json
+D:\Own_Learning\formatalpha\present\bin\Debug\net9.0\present.runtimeconfig.json
+D:\Own_Learning\formatalpha\present\bin\Debug\net9.0\present.dll
+D:\Own_Learning\formatalpha\present\bin\Debug\net9.0\present.pdb
+D:\Own_Learning\formatalpha\present\obj\Debug\net9.0\present.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own_Learning\formatalpha\present\obj\Debug\net9.0\present.AssemblyInfoInputs.cache
+D:\Own_Learning\formatalpha\present\obj\Debug\net9.0\present.AssemblyInfo.cs
+D:\Own_Learning\formatalpha\present\obj\Debug\net9.0\present.csproj.CoreCompileInputs.cache
+D:\Own_Learning\formatalpha\present\obj\Debug\net9.0\present.sourcelink.json
+D:\Own_Learning\formatalpha\present\obj\Debug\net9.0\present.dll
+D:\Own_Learning\formatalpha\present\obj\Debug\net9.0\refint\present.dll
+D:\Own_Learning\formatalpha\present\obj\Debug\net9.0\present.pdb
+D:\Own_Learning\formatalpha\present\obj\Debug\net9.0\present.genruntimeconfig.cache
+D:\Own_Learning\formatalpha\present\obj\Debug\net9.0\ref\present.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Own_Learning\\string_arr.csproj": {}
+    "D:\\Own_Learning\\formatalpha\\present\\present.csproj": {}
   },
   "projects": {
-    "D:\\Own_Learning\\string_arr.csproj": {
+    "D:\\Own_Learning\\formatalpha\\present\\present.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Own_Learning\\string_arr.csproj",
-        "projectName": "string_arr",
-        "projectPath": "D:\\Own_Learning\\string_arr.csproj",
+        "projectUniqueName": "D:\\Own_Learning\\formatalpha\\present\\present.csproj",
+        "projectName": "present",
+        "projectPath": "D:\\Own_Learning\\formatalpha\\present\\present.csproj",
         "packagesPath": "C:\\Users\\aldrix\\.nuget\\packages\\",
-        "outputPath": "D:\\Own_Learning\\obj\\",
+        "outputPath": "D:\\Own_Learning\\formatalpha\\present\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aldrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
