@@ -1,0 +1,15 @@
+D:\Own_Learning\Exercise\substrtrings\bin\Debug\net9.0\substrtrings.exe
+D:\Own_Learning\Exercise\substrtrings\bin\Debug\net9.0\substrtrings.deps.json
+D:\Own_Learning\Exercise\substrtrings\bin\Debug\net9.0\substrtrings.runtimeconfig.json
+D:\Own_Learning\Exercise\substrtrings\bin\Debug\net9.0\substrtrings.dll
+D:\Own_Learning\Exercise\substrtrings\bin\Debug\net9.0\substrtrings.pdb
+D:\Own_Learning\Exercise\substrtrings\obj\Debug\net9.0\substrtrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own_Learning\Exercise\substrtrings\obj\Debug\net9.0\substrtrings.AssemblyInfoInputs.cache
+D:\Own_Learning\Exercise\substrtrings\obj\Debug\net9.0\substrtrings.AssemblyInfo.cs
+D:\Own_Learning\Exercise\substrtrings\obj\Debug\net9.0\substrtrings.csproj.CoreCompileInputs.cache
+D:\Own_Learning\Exercise\substrtrings\obj\Debug\net9.0\substrtrings.sourcelink.json
+D:\Own_Learning\Exercise\substrtrings\obj\Debug\net9.0\substrtrings.dll
+D:\Own_Learning\Exercise\substrtrings\obj\Debug\net9.0\refint\substrtrings.dll
+D:\Own_Learning\Exercise\substrtrings\obj\Debug\net9.0\substrtrings.pdb
+D:\Own_Learning\Exercise\substrtrings\obj\Debug\net9.0\substrtrings.genruntimeconfig.cache
+D:\Own_Learning\Exercise\substrtrings\obj\Debug\net9.0\ref\substrtrings.dll
