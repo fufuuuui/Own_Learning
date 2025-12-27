@@ -1,0 +1,15 @@
+D:\Own_Learning\Exercise\Remove_Replace\bin\Debug\net9.0\Remove_Replace.exe
+D:\Own_Learning\Exercise\Remove_Replace\bin\Debug\net9.0\Remove_Replace.deps.json
+D:\Own_Learning\Exercise\Remove_Replace\bin\Debug\net9.0\Remove_Replace.runtimeconfig.json
+D:\Own_Learning\Exercise\Remove_Replace\bin\Debug\net9.0\Remove_Replace.dll
+D:\Own_Learning\Exercise\Remove_Replace\bin\Debug\net9.0\Remove_Replace.pdb
+D:\Own_Learning\Exercise\Remove_Replace\obj\Debug\net9.0\Remove_Replace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own_Learning\Exercise\Remove_Replace\obj\Debug\net9.0\Remove_Replace.AssemblyInfoInputs.cache
+D:\Own_Learning\Exercise\Remove_Replace\obj\Debug\net9.0\Remove_Replace.AssemblyInfo.cs
+D:\Own_Learning\Exercise\Remove_Replace\obj\Debug\net9.0\Remove_Replace.csproj.CoreCompileInputs.cache
+D:\Own_Learning\Exercise\Remove_Replace\obj\Debug\net9.0\Remove_Replace.sourcelink.json
+D:\Own_Learning\Exercise\Remove_Replace\obj\Debug\net9.0\Remove_Replace.dll
+D:\Own_Learning\Exercise\Remove_Replace\obj\Debug\net9.0\refint\Remove_Replace.dll
+D:\Own_Learning\Exercise\Remove_Replace\obj\Debug\net9.0\Remove_Replace.pdb
+D:\Own_Learning\Exercise\Remove_Replace\obj\Debug\net9.0\Remove_Replace.genruntimeconfig.cache
+D:\Own_Learning\Exercise\Remove_Replace\obj\Debug\net9.0\ref\Remove_Replace.dll
