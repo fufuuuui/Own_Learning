@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Remove_Replace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+953b0bae0f25a5741f4c63b9e4abc3c987f0d55b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a1cd09702d6d9ae4bbc557b1826ae8b4b605be9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Remove_Replace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Remove_Replace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
