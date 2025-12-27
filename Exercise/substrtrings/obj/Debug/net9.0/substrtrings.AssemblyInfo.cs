@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("substrtrings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64e426ff3ddf65ca7a314d4ed51f9b393e08be29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9a31a9232cb7bfb58e8757e486ff06645fc517a")]
 [assembly: System.Reflection.AssemblyProductAttribute("substrtrings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("substrtrings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
