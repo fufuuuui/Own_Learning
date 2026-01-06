@@ -8,7 +8,7 @@ string animalNickname = "";
 string suggestedDonation = "";
 
 // #2 variables that support data entry
-int maxPets = 8;
+int maxPets = 10;
 string? readResult;
 string menuSelection = "";
 decimal decimalDonation = 0.00m;
@@ -158,7 +158,7 @@ do
 
                         if (dogDescription.Contains(dogCharacteristic))
                         {
-                            Console.WriteLine($"\nOur dog {ourAnimals[i, 3]} is animalAge match!");
+                            Console.WriteLine($"\nOur dog {ourAnimals[i, 3]} is a match!");
                             Console.WriteLine(dogDescription);
 
                             noMatchesDog = false;
@@ -166,6 +166,7 @@ do
                     }
                 }
             }
+            
             if (noMatchesDog)
             {
                 Console.WriteLine($"None of our dogs are a match found for: " + dogCharacteristic);
