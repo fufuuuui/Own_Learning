@@ -123,7 +123,6 @@ do
             }
             Console.WriteLine("\n\rPress the Enter key to continue");
             readResult = Console.ReadLine();
-
             break;
 
         case "2":
@@ -166,7 +165,7 @@ do
                     }
                 }
             }
-            
+
             if (noMatchesDog)
             {
                 Console.WriteLine($"None of our dogs are a match found for: " + dogCharacteristic);
