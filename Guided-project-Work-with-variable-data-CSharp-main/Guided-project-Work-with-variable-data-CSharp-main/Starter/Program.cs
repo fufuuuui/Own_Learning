@@ -142,6 +142,15 @@ do
 
             string dogDescription = "";
             bool noMatchesDog = true;
+            string[] characteristicWords = dogCharacteristic.Split(' ');
+
+            for (int i = 0; i < dogCharacteristic; i++)
+            {
+                if (dogDescription.Contains(characteristicWords[i]))
+                {
+                    characteristicWords[i] = "";
+                }
+            }
 
             // #6 loop through the ourAnimals array to search for matching animals
             for (int i = 0; i < maxPets; i++)
@@ -152,7 +161,7 @@ do
                 {
                     if (dogMatch == true)
                     {
-                        // #7 Search combined descriptions and report results
+                        // #7 Search combined descriptions and report results do this
                         dogDescription = ourAnimals[i, 4] + "\n" + ourAnimals[i, 5];
 
                         if (dogDescription.Contains(dogCharacteristic))
@@ -179,3 +188,4 @@ do
     }
 
 } while (menuSelection != "exit");
+
