@@ -161,7 +161,7 @@ do
                 {
                     if (dogMatch == true)
                     {
-                        // #7 Search combined descriptions and report results do this
+                        // #7 Search combined descriptions and report results do this do
                         dogDescription = ourAnimals[i, 4] + "\n" + ourAnimals[i, 5];
 
                         if (dogDescription.Contains(dogCharacteristic))
