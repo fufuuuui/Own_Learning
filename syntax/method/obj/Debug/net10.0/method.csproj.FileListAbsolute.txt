@@ -1,0 +1,15 @@
+D:\Own_Learning\syntax\method\obj\Debug\net10.0\method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Own_Learning\syntax\method\obj\Debug\net10.0\method.AssemblyInfoInputs.cache
+D:\Own_Learning\syntax\method\obj\Debug\net10.0\method.AssemblyInfo.cs
+D:\Own_Learning\syntax\method\obj\Debug\net10.0\method.csproj.CoreCompileInputs.cache
+D:\Own_Learning\syntax\method\obj\Debug\net10.0\method.sourcelink.json
+D:\Own_Learning\syntax\method\bin\Debug\net10.0\method.exe
+D:\Own_Learning\syntax\method\bin\Debug\net10.0\method.deps.json
+D:\Own_Learning\syntax\method\bin\Debug\net10.0\method.runtimeconfig.json
+D:\Own_Learning\syntax\method\bin\Debug\net10.0\method.dll
+D:\Own_Learning\syntax\method\bin\Debug\net10.0\method.pdb
+D:\Own_Learning\syntax\method\obj\Debug\net10.0\method.dll
+D:\Own_Learning\syntax\method\obj\Debug\net10.0\refint\method.dll
+D:\Own_Learning\syntax\method\obj\Debug\net10.0\method.pdb
+D:\Own_Learning\syntax\method\obj\Debug\net10.0\method.genruntimeconfig.cache
+D:\Own_Learning\syntax\method\obj\Debug\net10.0\ref\method.dll
