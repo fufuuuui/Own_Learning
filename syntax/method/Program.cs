@@ -1,25 +1,36 @@
-﻿// // int[] a = {1,2,3,4,5};
+﻿// // // int[] a = {1,2,3,4,5};
 
-// // Console.WriteLine("Contents of Array:");
-// // PrintArray();
+// // // Console.WriteLine("Contents of Array:");
+// // // PrintArray();
 
-// // void PrintArray()
+// // // void PrintArray()
+// // // {
+// // //     foreach (int x in a)
+// // //     {
+// // //         Console.Write($"{x}");
+// // //     }
+// // //     Console.WriteLine();
+// // // }
+
+// // Console.WriteLine("Before calling a method");
+// // SayHello();
+// // Console.WriteLine("After calling a method");
+
+// // void SayHello() 
 // // {
-// //     foreach (int x in a)
-// //     {
-// //         Console.Write($"{x}");
-// //     }
-// //     Console.WriteLine();
+// //     Console.WriteLine("Hello World!");
 // // }
 
-// Console.WriteLine("Before calling a method");
-// SayHello();
-// Console.WriteLine("After calling a method");
+// void ShowData(string a, int b, int c);
+// void DisplayDate(string month, int day, int year);
 
-// void SayHello() 
-// {
-//     Console.WriteLine("Hello World!");
-// }
+void DisplayRandomNumbers()
+{
+    Random random = new Random();
 
-void ShowData(string a, int b, int c);
-void DisplayDate(string month, int day, int year);
+    for (int i = 0; i < 5; i++)
+    {
+        Console.Write($"{random.Next(1, 100)} ");
+    }
+    Console.WriteLine();
+}
