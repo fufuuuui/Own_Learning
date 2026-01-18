@@ -62,7 +62,7 @@ else
 
 Console.WriteLine("New Medicine Schedule:");
 
-/* Format and display medicine times */
+/* Format and display medicine times sad*/
 foreach (int val in times)
 {
     string time = val.ToString();
