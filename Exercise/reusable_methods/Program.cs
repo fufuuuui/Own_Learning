@@ -14,7 +14,7 @@ foreach (int val in times)
     string time = val.ToString();
     int len = time.Length;
 
-    if (len >= 2)
+    if (len >= 10)
     {
         time = time.Insert(len - 2, ":");
     }
